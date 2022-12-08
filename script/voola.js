@@ -183,3 +183,4 @@ let arr = ["Name", "Phone", "email", "color"]
 localStorage.setItem("first", "Omar")
 alert(localStorage.getItem("first"))
 localStorage.clear()
+
