@@ -34,7 +34,7 @@
 
 
 
-// var num = 1996;
+// var num = 2003;
 // alert(typeof(num))
 
 // //////////// Boolean
@@ -153,10 +153,10 @@ let arr = ["Name", "Phone", "email", "color"]
 // ------------- Objects -----------
 
 // let person = {
-//     namee : ["Adil", "Dev"],
+//     namee : ["Omar", "Dev"],
 //     lastName : "Dev",
-//     Age : 21,
-//     Job : "Software Enginner"
+//     Age : 19,
+//     Job : "Web developer"
 // };
 
 // console.log(person.namee[0])
@@ -164,7 +164,7 @@ let arr = ["Name", "Phone", "email", "color"]
 
 // let arr2 = ['Name', 'age', 'student']
 
-// arr2[0] = 'adil'
+// arr2[0] = 'Omar'
 // alert(arr2)
 
 
@@ -180,6 +180,6 @@ let arr = ["Name", "Phone", "email", "color"]
 // })
 
 
-localStorage.setItem("first", "Adil h")
+localStorage.setItem("first", "Omar")
 alert(localStorage.getItem("first"))
 localStorage.clear()
